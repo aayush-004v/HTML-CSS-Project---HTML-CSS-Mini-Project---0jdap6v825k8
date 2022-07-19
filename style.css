@@ -12,7 +12,7 @@
     background-size: cover;
     position: relative;
 }
-body
+html
 {
 scroll-behavior: smooth;    
 }
